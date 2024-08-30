@@ -1,6 +1,6 @@
 #Face Detection using face-api.js
 
-This project demonstrates how to implement face detection in a web application using HTML, JavaScript, and the face-api.js library. The application captures an image feed from the user's webcam and performs real-time facial recognition, detecting and displaying facial landmarks and expressions.
+This project demonstrates the implemantation of face detection in a web application using HTML, JavaScript, and the face-api.js library. The application captures an image feed from the user's webcam and performs real-time facial recognition, detecting and displaying facial landmarks and expressions.
 
 ##Features
 Webcam Integration: Captures live video feed from the user's webcam.
